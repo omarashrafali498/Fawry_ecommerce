@@ -21,7 +21,7 @@ This is a simplified Java-based e-commerce system that simulates key e-commerce 
 
 ### Strategy Design Pattern
 
-To avoid creating too many product subclasses (e.g., ExpirableShippable, NonExpirableNonShippable, etc.), the Strategy Pattern is used to delegate behaviors like expiration and shipping to separate components.
+To avoid creating too many product subclasses,the Strategy Pattern is used to delegate behaviors like expiration and shipping to separate components.
 
 ---
 
