@@ -57,21 +57,6 @@ public class Main {
 }
 ```  
 
-## Output Example
-** Shipment notice **
 
-1x Biscuits: 700g
-
-Total package weight: 0.7kg
-
-** Checkout receipt **
-
-1x Biscuits: 150
-
-2x Scratch Card: 200
-
-Subtotal: 350
-
-Shipping: 21
-
-Amount: 371
+## Output example
+![image alt](https://github.com/omarashrafali498/Fawry_ecommerce/blob/272f7a79950a17ef0679fdf67bf95f81dfc0af09/src/output%20task%201.png)
